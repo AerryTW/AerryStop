@@ -1,0 +1,6 @@
+﻿name: StopFix
+main: tw.Stopbukkit.Main
+version: 2.0
+commands:
+    stop:
+        description: 用法:/Stop <原因>
